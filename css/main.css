@@ -1,0 +1,50 @@
+
+html {
+	font-family: Arial, sans-serif;
+background-color: #ceba9a;
+}
+/*
+Black #000000
+White #ffffff
+Grey #333333  #cccccc
+Red # ff0000 #f00
+Green #00ff00 #0f0
+*/
+
+h1, h2 {
+font-weight: normal; /* normal, bold */
+/*font-size: 1rem; /*16x5rem is the font size*/
+/*/*text-decoration:underline; /*underline, line-through*/
+/*font-family: "Comic Sans MS", sans-serif; */
+font-family: 'Open Sans', sans-serif;
+}
+
+ol{
+list-style-type: lower-roman;
+/*
+none, decimal; circle; disc, square
+*/
+padding: 1rem;
+}
+
+li{
+	font-weight: bold;
+}
+
+.stego {
+	color: red;
+}
+
+a{
+	color: purple;
+}
+b{color:green; font-weight: normal;}
+a:hover{
+	color: white;
+	}
+	blockquote{ font-family:georgia,serif;
+	}
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+	font-size:2rem; introduction
+/* no space between a:h... */
